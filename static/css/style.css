@@ -120,11 +120,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('./static/img/apple.png');
+    background-image: url('https://github.com/rafael-hsm/clone-instagram-dio/blob/main/static/img/apple.png');
 }
 
 .app-download:nth-child(2) {
-    background-image: url('./static/img/google_play.png');
+    background-image: url('https://github.com/rafael-hsm/clone-instagram-dio/blob/main/static/img/google_play.png');
 }
 
 /* media queries */
